@@ -21,7 +21,7 @@
 - **3Dプリンタ**
     - 3Dものづくり
 - [**生活家電**](household_appliances.html)
-- [**車**](car.html)
+- [**車**](image/michihiro/デイズ.jpg)
 ## **〇音楽活動**
 - **「歌ってみた」の制作**
     - レコーディング
@@ -32,5 +32,5 @@
 
 ## **〇モチベーション向上**
 - **MONSTER ENERGY ULTRA**
-- [**GUCCIの腕時計**](watch_gucci.html)
+- [**GUCCIの腕時計**](image/michihiro/watch_gucci.png)
 - **COACH ビジネスバッグ&財布**
