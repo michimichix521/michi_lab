@@ -28,7 +28,9 @@
 |2012/04/29|束野通洋|**全日本剣道連盟** [**剣道二段 取得**](image/michihiro/剣道二段.png)|
 |2015/07/24|束野通洋|**カラオケ DAM 精密採点DX-G** [**自身最高得点 取得**](image/michihiro/カラオケ最高得点.png)|
 |2018/12/01|束野通洋（T__michi）|**NHK for School ワイワイプログラミング「Why!?大喜利」** [**入賞**](https://www.nhk.or.jp/school/programming/oogiri/works_26.html)|
+|2019/03/31|田村有里江|[**幼稚園教諭二種免許 取得**](image/yurie/幼稚園教諭免許.jpg)|
 |2019/11/28|束野通洋|**一般社団法人 神奈川県情報サービス産業協会「学生ITコンテスト2019」** [**ITプロダクツ部門 優秀賞受賞**](image/michihiro/学生ITコンテスト優秀賞.pdf)|
+|2019/12/13|田村有里江|[**保育士資格 取得**](image/yurie/保育士証.jpg)|
 |2020/03/24|束野通洋|**関東学院大学 理工/建築・環境学会 理工学部/建築・環境学部教養学会** [**学修優秀賞（活動優秀賞）受賞**](image/michihiro/学修優秀賞（活動優秀賞）.png)|
 |2020/05/23|束野通洋|**AtCoder Practical Algorithm Skill Test** [**CERTIFICATE「BEGINNER CLASS」 取得**](image/michihiro/PAST_BEGINNER.pdf)|
 
