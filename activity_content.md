@@ -18,7 +18,7 @@
     - 教育用プログラミング
         - Scratch
         - Minecraftプログラミング
-- **3Dプリンタ**
+- **3Dプリンタ：[FLASHFORGE ADVENTURER3](image/michihiro/3Dプリンタ.jpg)**
     - 3Dものづくり
 - [**生活家電**](household_appliances.html)
 - [**車**](image/michihiro/デイズ.jpg)
@@ -31,7 +31,7 @@
 - [**作品集**](yurie_portfolio.html)
 
 ## **〇モチベーション向上**
-- **MONSTER ENERGY ULTRA**
+- **[MONSTER ENERGY ULTRA](https://www.amazon.co.jp/gp/product/B00YOXAIRY/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)**
 - [**GUCCIの腕時計**](image/michihiro/腕時計.jpg)
 - [**COACH ビジネスバッグ**](image/michihiro/ビジネスバッグ.jpg)
 - [**COACH 財布**](image/michihiro/財布.jpg)
