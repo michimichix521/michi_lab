@@ -4,6 +4,11 @@
     - 「暗号通貨シミュレータ」の開発
 - **教育工学**
     - 卒業論文テーマ ：[「試行錯誤の変動係数に着目した能動性の定量的な評価」](image/michihiro/20010404_216K6063.pdf)
+    - 小学校プログラミング教育の必修化
+        - Scratch
+        - Minecraftプログラミング
+- **知的財産**
+    - 特許
 ## **〇テクノロジー＆デジタル技術の活用**
 - **技術記事の執筆**
     - [Qiita](https://qiita.com/michimichix521)（以下、おすすめ記事）
@@ -15,9 +20,6 @@
     - C#
     - 競技プログラミング
         - AtCoder
-    - 教育用プログラミング
-        - Scratch
-        - Minecraftプログラミング
 - **3Dプリンタ：[FLASHFORGE ADVENTURER3](image/michihiro/3Dプリンタ.jpg)**
     - 3Dものづくり
 - [**生活家電**](household_appliances.html)
